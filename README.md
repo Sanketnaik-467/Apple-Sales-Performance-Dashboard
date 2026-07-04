@@ -1,44 +1,43 @@
 # Apple-Sales-Performance-Dashboard
-# Netflix-Content-Analytics-Dashboard
-# 📊  # Netflix-Content-Analytics-Dashboard | Power BI
+# 📊  # Apple-Sales-Performance-Dashboard | Power BI
 
 ## Overview
 
-This project presents an interactive **Netflix Content Analytics Dashboard** developed using **Power BI** to analyze Netflix's global content library. The dashboard provides comprehensive insights into movies and TV shows by visualizing content distribution, release trends, genre popularity, content ratings, and country-wise availability. Interactive filters enable users to explore the dataset dynamically, making it easier to identify trends and gain meaningful business insights.
+This project presents an **interactive Apple Sales Performance Dashboard** developed using **Power BI** to analyze sales performance, customer insights, product revenue, and return trends. The dashboard provides decision-makers with a centralized view of key business metrics through interactive visualizations and dynamic filtering. Users can explore sales performance across products, regions, customer segments, and time periods to gain valuable business insights.
 
  [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Apple-Sales-Performance-Dashboard/blob/2c70acdf4fe1c7cbd4085f2e1d7260f712a4ac99/Apple_Sales_Performance_Dashboard.pbix)
 <br><br>
 
 ## Business Challenge
 
-With thousands of movies and TV shows available across multiple countries, understanding content distribution and viewing trends can be challenging. Without a centralized analytical dashboard, it becomes difficult to monitor content growth, identify popular genres, analyze rating distributions, and compare Movies versus TV Shows.
-
-The objective of this project is to transform raw Netflix content data into an interactive business intelligence dashboard that enables users to explore content trends, geographical distribution, genre performance, and rating classifications for better data-driven analysis.
+Apple's sales data contains valuable information across products, customers, and geographical regions. However, without an interactive reporting solution, it becomes difficult to identify high-performing products, monitor monthly revenue trends, evaluate customer purchasing behavior, and analyze product return patterns. This dashboard addresses these challenges by transforming raw sales data into meaningful visual insights that support strategic business decisions.
 
 ## Solution
 
-Using **Power BI**, an interactive dashboard was designed to consolidate key Netflix content metrics into a single reporting interface. The dashboard provides visual insights into total titles, movies, TV shows, countries available, yearly content additions, top-performing genres, content rating distribution, country-wise content availability, and the proportion of Movies versus TV Shows. Interactive slicers for Country, Type, Duration, and Release Year allow users to perform dynamic filtering and detailed analysis.
+Using **Power BI**, the sales dataset was transformed into a comprehensive business intelligence dashboard. Interactive slicers allow users to filter data by Year, Region, and Currency, while KPI cards provide an instant overview of key performance indicators. The dashboard combines product analysis, customer segmentation, geographic sales distribution, revenue trends, and return status into a single, user-friendly reporting interface, enabling efficient business analysis and decision-making.
 
 ## Key Features
 
-• Interactive KPI cards displaying Total Titles, Movies, TV Shows, and Countries Available.
+• Interactive KPI cards displaying Total Revenue, Total Orders, Units Sold, and Average Order Value (AOV).
 
-• Year-wise analysis showing the growth of Netflix content added over time..
+• YMonthly Revenue Trend analysis to monitor sales performance over time.
 
-• Top 10 genre visualization highlighting the most popular content categories.
+• Top 5 Products by Revenue visualization for product performance comparison.
 
-• Movies vs TV Shows comparison using a donut chart for quick content segmentation.
+• Geographic Revenue Map showing sales distribution across countries.
 
-• Dynamic slicers for Country, Type, Duration, and Release Year enabling flexible exploration.
+• Customer Segmentation analysis based on customer categories.
 
-• Content Rating Distribution analysis across various audience classifications.
+• Order Return Status analysis highlighting kept, returned, and exchanged orders.
+
+• Dynamic slicers for Year, Region, and Currency filtering.
 
 ## Dashboard Preview
 
-## Netflix-Content-Analytics-Dashboard Overview
+## Apple-Sales-Performance-Dashboard
 
 <img src="https://github.com/Sanketnaik-467/Apple-Sales-Performance-Dashboard/blob/2c70acdf4fe1c7cbd4085f2e1d7260f712a4ac99/Apple_Sales_Performance_Dashbaord.png" alt="Image Description" width="600">
 
 ## Outcome
 
-This dashboard successfully transforms raw Netflix content data into an interactive business intelligence solution. It enables users to analyze content trends, identify popular genres, evaluate country-wise content distribution, compare Movies and TV Shows, and understand audience rating patterns. By integrating interactive visualizations with dynamic filtering capabilities, the dashboard demonstrates practical expertise in **Power BI, data visualization, dashboard design, KPI reporting, and exploratory data analysis**, making it a valuable portfolio project for business intelligence and data analytics.
+This dashboard transforms Apple sales data into an interactive business intelligence solution that enables efficient sales monitoring, customer analysis, and product performance evaluation. By integrating KPI reporting, geographic analysis, customer segmentation, trend analysis, and return monitoring into a single dashboard, the project demonstrates practical Power BI skills in data visualization, dashboard design, DAX measures, and business analytics. It serves as a strong portfolio project showcasing the ability to convert raw sales data into meaningful insights for strategic decision-making.
