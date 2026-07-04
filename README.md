@@ -20,7 +20,7 @@ Using **Power BI**, the sales dataset was transformed into a comprehensive busin
 
 • Interactive KPI cards displaying Total Revenue, Total Orders, Units Sold, and Average Order Value (AOV).
 
-• YMonthly Revenue Trend analysis to monitor sales performance over time.
+• Monthly Revenue Trend analysis to monitor sales performance over time.
 
 • Top 5 Products by Revenue visualization for product performance comparison.
 
